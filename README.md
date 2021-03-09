@@ -6,7 +6,7 @@ This is the playground I made for the **WWDC20 Swift Student Challenge**, and
 
 The Four Seasons is made entirely with SpriteKit and explores a whole bunch of its features.
 
-Thanks for checking it out :D
+[You can check out the video here](https://youtu.be/f_LbK6Dhfps).
 
 ☀️🍁⛄️🍀
 
