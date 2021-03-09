@@ -9,3 +9,10 @@ The Four Seasons is made entirely with SpriteKit and explores a whole bunch of i
 Thanks for checking it out :D
 
 ☀️🍁⛄️🍀
+
+ ## Extra credits
+ 
+All assets are from the [Kenney Game Assets pack](https://kenney.nl).
+ 
+All music is by [Kevin MacLeod](incompetech.com),
+licensed under [Creative Commons: By Attribution 4.0 License](http://creativecommons.org/licenses/by/4.0/).
