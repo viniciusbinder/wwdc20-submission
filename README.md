@@ -10,7 +10,7 @@ Thanks for checking it out :D
 
 ☀️🍁⛄️🍀
 
- ## Extra credits
+---
  
 All assets are from the [Kenney Game Assets pack](https://kenney.nl).
  
