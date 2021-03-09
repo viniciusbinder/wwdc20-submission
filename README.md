@@ -1,4 +1,4 @@
-# The Four Seasons
+# The Four Seasons 🍀
 
 Hi there!
 
